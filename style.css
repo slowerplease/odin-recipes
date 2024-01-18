@@ -1,0 +1,40 @@
+*{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p {
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.page-title {
+    text-align: center;
+    border: solid;
+    border-color: black;
+    box-shadow: 4px;
+    border-radius: 5px;
+}
+
+.link{
+    font-size: 20px;
+}
+
+.ingredients{
+    font-weight: bold;
+    
+}
+
+.directions {
+    color: rgb(79, 79, 79);
+    line-height: 1.5;
+}
+
+.list{
+    font-size: 20px;
+}
+
+#dish-hero-img {
+    margin: auto;
+    width: 50%;
+    display: block;
+}
