@@ -33,6 +33,11 @@ p {
     font-size: 20px;
 }
 
+#recipe-links{
+    font-size: 28px;
+    font-weight: bolder;
+    line-height: 2;
+}
 #dish-hero-img {
     margin: auto;
     width: 50%;
